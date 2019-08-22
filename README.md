@@ -1,4 +1,4 @@
-# akqa-meeting-schedular-exercise
+# Akqa Meeting Schedular Exercise
 akqa-meeting-schedular-exercise
 
 it is ab spring boot based, maven project
